@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ВОПРОСЫ, ОТВЕТЫ/1.0.0": {
+        "runtime": {
+          "ВОПРОСЫ, ОТВЕТЫ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ВОПРОСЫ, ОТВЕТЫ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

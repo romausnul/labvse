@@ -1,0 +1,5 @@
+D:\22П\ЧАЙ 2.0\ЧАЙ 2.0\ЧАЙ 2.0\obj\Debug\ЧАЙ 2.0.csproj.AssemblyReference.cache
+D:\22П\ЧАЙ 2.0\ЧАЙ 2.0\ЧАЙ 2.0\obj\Debug\ЧАЙ_2._0.Form1.resources
+D:\22П\ЧАЙ 2.0\ЧАЙ 2.0\ЧАЙ 2.0\obj\Debug\ЧАЙ_2._0.Properties.Resources.resources
+D:\22П\ЧАЙ 2.0\ЧАЙ 2.0\ЧАЙ 2.0\obj\Debug\ЧАЙ 2.0.csproj.GenerateResource.cache
+D:\22П\ЧАЙ 2.0\ЧАЙ 2.0\ЧАЙ 2.0\obj\Debug\ЧАЙ 2.0.csproj.CoreCompileInputs.cache

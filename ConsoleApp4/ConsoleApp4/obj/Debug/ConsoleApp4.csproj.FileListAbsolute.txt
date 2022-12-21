@@ -1,0 +1,8 @@
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\21П Изутов\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

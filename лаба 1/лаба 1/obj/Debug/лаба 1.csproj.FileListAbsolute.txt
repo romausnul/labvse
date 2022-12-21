@@ -1,0 +1,15 @@
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\bin\Debug\лаба 1.exe.config
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\bin\Debug\лаба 1.exe
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\bin\Debug\лаба 1.pdb
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.AssemblyReference.cache
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.SuggestedBindingRedirects.cache
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.CoreCompileInputs.cache
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\obj\Debug\лаба 1.exe
+D:\Ивлев Рыпин Фёдоров\лаба 1\лаба 1\obj\Debug\лаба 1.pdb
+E:\лаба 1\лаба 1\bin\Debug\лаба 1.exe.config
+E:\лаба 1\лаба 1\bin\Debug\лаба 1.exe
+E:\лаба 1\лаба 1\bin\Debug\лаба 1.pdb
+E:\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.AssemblyReference.cache
+E:\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.CoreCompileInputs.cache
+E:\лаба 1\лаба 1\obj\Debug\лаба 1.exe
+E:\лаба 1\лаба 1\obj\Debug\лаба 1.pdb

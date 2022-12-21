@@ -1,0 +1,9 @@
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.csproj.AssemblyReference.cache
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.Form1.resources
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.csproj.GenerateResource.cache
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.GeneratedMSBuildEditorConfig.editorconfig
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.AssemblyInfoInputs.cache
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.AssemblyInfo.cs
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.csproj.CoreCompileInputs.cache
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.dll
+D:\22П\чай\чай\чай\obj\Debug\netcoreapp3.1\чай.pdb

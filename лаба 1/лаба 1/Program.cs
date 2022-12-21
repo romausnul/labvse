@@ -10,23 +10,23 @@ namespace лаба_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Добро пожаовать в 22");
-            Console.WriteLine("Как вас зовут?");
-            string name = Convert.ToString (Console.ReadLine());
-            Console.WriteLine(name + ", введите 1 целое число");
-            double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine(name + ", введите 2 целое число");
-            double b = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Добро пожаовать в 22");
+            Console.Write("Как вас зовут?");
+            string name = Convert.ToString (Console.Read());
+            Console.Write(name + ", введите 1 целое число");
+            double a = Convert.ToDouble(Console.Read());
+            Console.Write(name + ", введите 2 целое число");
+            double b = Convert.ToDouble(Console.Read());
             double sum = a + b;
-            Console.WriteLine($"Сумма этих чисел: {sum}");
+            Console.Write($"Сумма этих чисел: {sum}");
             double razn = a - b;
-            Console.WriteLine($"Разность этих чисел: {razn}");
+            Console.Write($"Разность этих чисел: {razn}");
             double mnozh = a * b;
-            Console.WriteLine($"Произведение этих чисел: {mnozh}");
+            Console.Write($"Произведение этих чисел: {mnozh}");
             double chast = a / b;
-            Console.WriteLine($"Частное этих чисел: {chast}");
+            Console.Write($"Частное этих чисел: {chast}");
             double step = Convert.ToDouble(Math.Pow(a, b));
-            Console.WriteLine($"Число {a} в степени {b} = {step}");
+            Console.Write($"Число {a} в степени {b} = {step}");
             Console.ReadKey();
         }
     }

@@ -1,0 +1,5 @@
+D:\22П\Мамонов_Роман_22П\Мамонов_Роман_22П\obj\Debug\netcoreapp3.1\Мамонов_Роман_22П.csproj.AssemblyReference.cache
+D:\22П\Мамонов_Роман_22П\Мамонов_Роман_22П\obj\Debug\netcoreapp3.1\Мамонов_Роман_22П.GeneratedMSBuildEditorConfig.editorconfig
+D:\22П\Мамонов_Роман_22П\Мамонов_Роман_22П\obj\Debug\netcoreapp3.1\Мамонов_Роман_22П.AssemblyInfoInputs.cache
+D:\22П\Мамонов_Роман_22П\Мамонов_Роман_22П\obj\Debug\netcoreapp3.1\Мамонов_Роман_22П.AssemblyInfo.cs
+D:\22П\Мамонов_Роман_22П\Мамонов_Роман_22П\obj\Debug\netcoreapp3.1\Мамонов_Роман_22П.csproj.CoreCompileInputs.cache

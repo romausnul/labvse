@@ -1,0 +1,7 @@
+D:\22П\Мамонов_Роман_22П\мАМОНОВ_оКОННОЕ\мАМОНОВ_оКОННОЕ\obj\Debug\netcoreapp3.1\мАМОНОВ_оКОННОЕ.csproj.AssemblyReference.cache
+D:\22П\Мамонов_Роман_22П\мАМОНОВ_оКОННОЕ\мАМОНОВ_оКОННОЕ\obj\Debug\netcoreapp3.1\мАМОНОВ_оКОННОЕ.Магазин.resources
+D:\22П\Мамонов_Роман_22П\мАМОНОВ_оКОННОЕ\мАМОНОВ_оКОННОЕ\obj\Debug\netcoreapp3.1\мАМОНОВ_оКОННОЕ.csproj.GenerateResource.cache
+D:\22П\Мамонов_Роман_22П\мАМОНОВ_оКОННОЕ\мАМОНОВ_оКОННОЕ\obj\Debug\netcoreapp3.1\мАМОНОВ_оКОННОЕ.GeneratedMSBuildEditorConfig.editorconfig
+D:\22П\Мамонов_Роман_22П\мАМОНОВ_оКОННОЕ\мАМОНОВ_оКОННОЕ\obj\Debug\netcoreapp3.1\мАМОНОВ_оКОННОЕ.AssemblyInfoInputs.cache
+D:\22П\Мамонов_Роман_22П\мАМОНОВ_оКОННОЕ\мАМОНОВ_оКОННОЕ\obj\Debug\netcoreapp3.1\мАМОНОВ_оКОННОЕ.AssemblyInfo.cs
+D:\22П\Мамонов_Роман_22П\мАМОНОВ_оКОННОЕ\мАМОНОВ_оКОННОЕ\obj\Debug\netcoreapp3.1\мАМОНОВ_оКОННОЕ.csproj.CoreCompileInputs.cache

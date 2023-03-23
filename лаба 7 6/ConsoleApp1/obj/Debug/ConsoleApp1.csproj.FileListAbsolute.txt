@@ -1,0 +1,10 @@
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\21П\Ивлев Рыпин Фёдоров\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\лаба 7 6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\лаба 7 6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

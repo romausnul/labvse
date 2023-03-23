@@ -1,0 +1,8 @@
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\bin\Debug\лаба 7 3.exe.config
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\bin\Debug\лаба 7 3.exe
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\bin\Debug\лаба 7 3.pdb
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\obj\Debug\лаба 7 3.csproj.AssemblyReference.cache
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\obj\Debug\лаба 7 3.csproj.SuggestedBindingRedirects.cache
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\obj\Debug\лаба 7 3.csproj.CoreCompileInputs.cache
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\obj\Debug\лаба 7 3.exe
+D:\21П\Ивлев Рыпин Фёдоров\лаба 7 3\лаба 7 3\obj\Debug\лаба 7 3.pdb

@@ -1,0 +1,14 @@
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.csproj.AssemblyReference.cache
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.AssemblyInfoInputs.cache
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.AssemblyInfo.cs
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.csproj.CoreCompileInputs.cache
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\bin\Debug\netcoreapp3.1\лаба 5.exe
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\bin\Debug\netcoreapp3.1\лаба 5.deps.json
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\bin\Debug\netcoreapp3.1\лаба 5.runtimeconfig.json
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\bin\Debug\netcoreapp3.1\лаба 5.runtimeconfig.dev.json
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\bin\Debug\netcoreapp3.1\лаба 5.dll
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\bin\Debug\netcoreapp3.1\лаба 5.pdb
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.dll
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.pdb
+D:\ВИнник ПЕтелин 22-П\новые\лабы короче\Лаба номер 5\лаба 5\obj\Debug\netcoreapp3.1\лаба 5.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 4E78-EE11
+
+ Содержимое папки C:\Users\admin\Desktop\Новая папка - копия\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0
+
+14.01.2023  13:51    <DIR>          .
+14.01.2023  13:51    <DIR>          ..
+14.01.2023  13:46               425 ConsoleApp1.deps.json
+14.01.2023  13:47             5 120 ConsoleApp1.dll
+14.01.2023  13:47           147 968 ConsoleApp1.exe
+14.01.2023  13:47            10 392 ConsoleApp1.pdb
+14.01.2023  13:46               147 ConsoleApp1.runtimeconfig.json
+14.01.2023  13:51                 0 dir_list.txt
+14.01.2023  13:50                89 resutl.txt
+               7 файлов        164 141 байт
+               2 папок  174 753 931 264 байт свободно

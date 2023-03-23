@@ -1,0 +1,8 @@
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\bin\Debug\лаба 6.exe.config
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\bin\Debug\лаба 6.exe
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\bin\Debug\лаба 6.pdb
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\obj\Debug\лаба 6.csproj.AssemblyReference.cache
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\obj\Debug\лаба 6.csproj.SuggestedBindingRedirects.cache
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\obj\Debug\лаба 6.csproj.CoreCompileInputs.cache
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\obj\Debug\лаба 6.exe
+D:\21П\Ивлев Рыпин Фёдоров\лаба 6\лаба 6\obj\Debug\лаба 6.pdb

@@ -1,0 +1,27 @@
+F:\лабы генка228\лаба 13\лаба 13\bin\Debug\лаба 13.exe
+F:\лабы генка228\лаба 13\лаба 13\bin\Debug\лаба 13.pdb
+F:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.AssemblyReference.cache
+F:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба_13.Form1.resources
+F:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба_13.Properties.Resources.resources
+F:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.GenerateResource.cache
+F:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.CoreCompileInputs.cache
+F:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.exe
+F:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.pdb
+E:\лабы генка228\лаба 13\лаба 13\bin\Debug\лаба 13.exe
+E:\лабы генка228\лаба 13\лаба 13\bin\Debug\лаба 13.pdb
+E:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.AssemblyReference.cache
+E:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба_13.Form1.resources
+E:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба_13.Properties.Resources.resources
+E:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.GenerateResource.cache
+E:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.CoreCompileInputs.cache
+E:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.exe
+E:\лабы генка228\лаба 13\лаба 13\obj\Debug\лаба 13.pdb
+E:\лаба 13\лаба 13\bin\Debug\лаба 13.exe
+E:\лаба 13\лаба 13\bin\Debug\лаба 13.pdb
+E:\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.AssemblyReference.cache
+E:\лаба 13\лаба 13\obj\Debug\лаба_13.Form1.resources
+E:\лаба 13\лаба 13\obj\Debug\лаба_13.Properties.Resources.resources
+E:\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.GenerateResource.cache
+E:\лаба 13\лаба 13\obj\Debug\лаба 13.csproj.CoreCompileInputs.cache
+E:\лаба 13\лаба 13\obj\Debug\лаба 13.exe
+E:\лаба 13\лаба 13\obj\Debug\лаба 13.pdb

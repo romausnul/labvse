@@ -1,0 +1,43 @@
+1. Количество клиентов в городах
+ 
+SELECT COUNT(CustomerID), City
+FROM Customers
+GROUP BY City;
+
+2. Продукты по категориям
+
+SELECT COUNT(CategoryID), CategoryName
+FROM Categories
+GROUP BY CategoryName;
+
+3. Средняя цена продуктов в каждой категории
+
+SELECT ProductID, AVG(Price)
+FROM Products
+GROUP BY Price;
+
+4. Кол-во поставщиков в стране
+
+SELECT COUNT(SupplierID), Country
+FROM Suppliers
+GROUP BY Country;
+
+5. Кол-во заказов клиента
+
+SELECT COUNT(OrderID), CustomerID
+FROM Orders
+GROUP BY CustomerID;
+
+6. Выполненные заказы сотрудника
+
+SELECT COUNT(OrderID), EmployeeID
+FROM Orders
+GROUP BY EmployeeID;
+
+7. Кол-во заказов за день
+
+SELECT COUNT(OrderID), OrderDate
+FROM Orders
+GROUP BY OrderDate;
+
+8. 

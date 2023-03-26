@@ -1,0 +1,34 @@
+D:\VisualStudioSources\перед новым годом сижу\bin\Debug\перед новым годом сижу.exe.config
+D:\VisualStudioSources\перед новым годом сижу\bin\Debug\перед новым годом сижу.exe
+D:\VisualStudioSources\перед новым годом сижу\bin\Debug\перед новым годом сижу.pdb
+D:\VisualStudioSources\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.AssemblyReference.cache
+D:\VisualStudioSources\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Form1.resources
+D:\VisualStudioSources\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Properties.Resources.resources
+D:\VisualStudioSources\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.GenerateResource.cache
+D:\VisualStudioSources\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.CoreCompileInputs.cache
+D:\VisualStudioSources\перед новым годом сижу\obj\Debug\перед новым годом сижу.exe
+D:\VisualStudioSources\перед новым годом сижу\obj\Debug\перед новым годом сижу.pdb
+E:\перед новым годом сижу\bin\Debug\перед новым годом сижу.exe.config
+E:\перед новым годом сижу\bin\Debug\перед новым годом сижу.exe
+E:\перед новым годом сижу\bin\Debug\перед новым годом сижу.pdb
+E:\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.AssemblyReference.cache
+E:\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.SuggestedBindingRedirects.cache
+E:\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Form1.resources
+E:\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Properties.Resources.resources
+E:\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.GenerateResource.cache
+E:\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.CoreCompileInputs.cache
+E:\перед новым годом сижу\obj\Debug\перед новым годом сижу.exe
+E:\перед новым годом сижу\obj\Debug\перед новым годом сижу.pdb
+C:\Users\Expert\Desktop\перед новым годом сижу\bin\Debug\перед новым годом сижу.exe.config
+C:\Users\Expert\Desktop\перед новым годом сижу\bin\Debug\перед новым годом сижу.exe
+C:\Users\Expert\Desktop\перед новым годом сижу\bin\Debug\перед новым годом сижу.pdb
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.AssemblyReference.cache
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.SuggestedBindingRedirects.cache
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Form1.resources
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Properties.Resources.resources
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.GenerateResource.cache
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед новым годом сижу.csproj.CoreCompileInputs.cache
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед новым годом сижу.exe
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед новым годом сижу.pdb
+C:\Users\Expert\Desktop\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Form2.resources
+E:\перед новым годом сижу\obj\Debug\перед_новым_годом_сижу.Form2.resources

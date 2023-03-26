@@ -15,13 +15,11 @@ namespace лаба_11
         public Form1()
         {
             InitializeComponent();
-            label1.Text = "";
-            label2.Text = "";
         }
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
         {
-            this.Text = Convert.ToString('\x58D') + Convert.ToString('\x266B') + Convert.ToString('\x263C') + Convert.ToString('\x2182') + Convert.ToString('\x214F') + Convert.ToString('\x203B') + Convert.ToString('\x1D25') + Convert.ToString('\x2042');
+            this.Text = Convert.ToString('\x058D') + Convert.ToString('\x266B') + Convert.ToString('\x263C') + Convert.ToString('\x2182') + Convert.ToString('\x214F') + Convert.ToString('\x203B') + Convert.ToString('\x1D25') + Convert.ToString('\x2042');
         }
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
@@ -30,57 +28,26 @@ namespace лаба_11
             textBox2.Visible = true;
             button1.Visible = true;
             label1.Visible = true;
-            if (richTextBox1.Visible == true)
-            {
-                richTextBox1.Visible = false;
-                textBox3.Visible = false;
-                textBox4.Visible = false;
-                button2.Visible = false;
-            }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private TextBox GetTextBox2()
         {
-            for (int i= Convert.ToInt32(textBox1.Text); i <= Convert.ToInt32(textBox2.Text);i++)
-            {
-                label1.Text = label1.Text+Convert.ToString(Convert.ToChar(i));   //Convert.ToString(Convert.ToInt32(textBox1.Text),16);
-            }
+            return textBox2;
         }
 
-        private void toolStripMenuItem6_Click(object sender, EventArgs e)
+        private TextBox button1_Click(object sender, EventArgs e, TextBox textBox2)
         {
-            richTextBox2.Visible = true;
-            button3.Visible = true;
+            return textBox1;
+         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
         }
 
-        private void toolStripMenuItem4_Click(object sender, EventArgs e)
+        private void timer1_Tick(object sender, EventArgs e)
         {
-            richTextBox1.Visible = true;
-            textBox3.Visible = true;
-            textBox4.Visible = true;
-            button2.Visible = true;
-            if (textBox1.Visible == true)
-            {
-                textBox1.Visible = false;
-                textBox2.Visible = false;
-                button1.Visible = false;
-                label1.Visible = false;
-            }
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            richTextBox1.Text = richTextBox1.Text.Replace(textBox3.Text, textBox4.Text);
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            label2.Text = ($"Количество символов: {richTextBox2.Text.Length}");
-        }
-
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
+            
         }
     }
 }

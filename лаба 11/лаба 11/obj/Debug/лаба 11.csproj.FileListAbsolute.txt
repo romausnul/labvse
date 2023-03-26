@@ -8,24 +8,14 @@ C:\Users\admin\Desktop\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.Core
 C:\Users\admin\Desktop\лаба 11\лаба 11\obj\Debug\лаба 11.exe
 C:\Users\admin\Desktop\лаба 11\лаба 11\obj\Debug\лаба 11.pdb
 C:\Users\admin\Desktop\лаба 11\лаба 11\obj\Debug\лаба_11.Form1.resources
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\bin\Debug\лаба 11.exe.config
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\bin\Debug\лаба 11.exe
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\bin\Debug\лаба 11.pdb
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.AssemblyReference.cache
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба_11.Form1.resources
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба_11.Properties.Resources.resources
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.GenerateResource.cache
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.CoreCompileInputs.cache
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба 11.exe
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба 11.pdb
-F:\лабы генка228\лаба 11\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.SuggestedBindingRedirects.cache
-D:\лаба 11\лаба 11\bin\Debug\лаба 11.exe.config
-D:\лаба 11\лаба 11\bin\Debug\лаба 11.exe
-D:\лаба 11\лаба 11\bin\Debug\лаба 11.pdb
-D:\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.AssemblyReference.cache
-D:\лаба 11\лаба 11\obj\Debug\лаба_11.Form1.resources
-D:\лаба 11\лаба 11\obj\Debug\лаба_11.Properties.Resources.resources
-D:\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.GenerateResource.cache
-D:\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.CoreCompileInputs.cache
-D:\лаба 11\лаба 11\obj\Debug\лаба 11.exe
-D:\лаба 11\лаба 11\obj\Debug\лаба 11.pdb
+E:\лаба 11\лаба 11\bin\Debug\лаба 11.exe.config
+E:\лаба 11\лаба 11\bin\Debug\лаба 11.exe
+E:\лаба 11\лаба 11\bin\Debug\лаба 11.pdb
+E:\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.AssemblyReference.cache
+E:\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.SuggestedBindingRedirects.cache
+E:\лаба 11\лаба 11\obj\Debug\лаба_11.Form1.resources
+E:\лаба 11\лаба 11\obj\Debug\лаба_11.Properties.Resources.resources
+E:\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.GenerateResource.cache
+E:\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.CoreCompileInputs.cache
+E:\лаба 11\лаба 11\obj\Debug\лаба 11.exe
+E:\лаба 11\лаба 11\obj\Debug\лаба 11.pdb

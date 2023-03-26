@@ -13,10 +13,3 @@ E:\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.AssemblyReference.cache
 E:\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.CoreCompileInputs.cache
 E:\лаба 1\лаба 1\obj\Debug\лаба 1.exe
 E:\лаба 1\лаба 1\obj\Debug\лаба 1.pdb
-D:\22П\лаба 1\лаба 1\bin\Debug\лаба 1.exe.config
-D:\22П\лаба 1\лаба 1\bin\Debug\лаба 1.exe
-D:\22П\лаба 1\лаба 1\bin\Debug\лаба 1.pdb
-D:\22П\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.AssemblyReference.cache
-D:\22П\лаба 1\лаба 1\obj\Debug\лаба 1.csproj.CoreCompileInputs.cache
-D:\22П\лаба 1\лаба 1\obj\Debug\лаба 1.exe
-D:\22П\лаба 1\лаба 1\obj\Debug\лаба 1.pdb

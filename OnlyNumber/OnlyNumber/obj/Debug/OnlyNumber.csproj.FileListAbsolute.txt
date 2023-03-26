@@ -1,0 +1,20 @@
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\bin\Debug\OnlyNumber.exe.config
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\bin\Debug\OnlyNumber.exe
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\bin\Debug\OnlyNumber.pdb
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.Form1.resources
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.Properties.Resources.resources
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.csproj.GenerateResource.Cache
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.exe
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.pdb
+E:\OnlyNumber\OnlyNumber\bin\Debug\OnlyNumber.exe.config
+E:\OnlyNumber\OnlyNumber\bin\Debug\OnlyNumber.exe
+E:\OnlyNumber\OnlyNumber\bin\Debug\OnlyNumber.pdb
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.csproj.AssemblyReference.cache
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.csproj.SuggestedBindingRedirects.cache
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.Form1.resources
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.Properties.Resources.resources
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.csproj.GenerateResource.cache
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.csproj.CoreCompileInputs.cache
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.exe
+E:\OnlyNumber\OnlyNumber\obj\Debug\OnlyNumber.pdb

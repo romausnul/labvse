@@ -24,9 +24,9 @@ namespace лаба_13
             if (com == 0)
                 label1.Text = "Строки равны";
             if (com == 1)
-                label1.Text = "Первая строка больше вторая";
+                label1.Text = "1-я строка больше 2-й";
             if (com == -1)
-                label1.Text = "Вторая строка больше первой";
+                label1.Text = "2-я строка больше 1-й";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -58,20 +58,10 @@ namespace лаба_13
             str1 = new string(strReverse);
             if (str == str1)
             {
-                label2.Text = "Это ПАЛИНОДРОМ";
+                label2.Text = "Это палинодром";
             }
             else
-                label2.Text = "Это нету тут ПАЛИНОДРОМ";
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
+                label2.Text = "Это не палинодром";
         }
     }
 }

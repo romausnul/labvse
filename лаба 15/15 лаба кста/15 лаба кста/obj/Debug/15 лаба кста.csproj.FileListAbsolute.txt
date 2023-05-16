@@ -1,0 +1,10 @@
+E:\лаба 15\15 лаба кста\15 лаба кста\bin\Debug\15 лаба кста.exe.config
+E:\лаба 15\15 лаба кста\15 лаба кста\bin\Debug\15 лаба кста.exe
+E:\лаба 15\15 лаба кста\15 лаба кста\bin\Debug\15 лаба кста.pdb
+E:\лаба 15\15 лаба кста\15 лаба кста\obj\Debug\15 лаба кста.csproj.AssemblyReference.cache
+E:\лаба 15\15 лаба кста\15 лаба кста\obj\Debug\_15_лаба_кста.Form1.resources
+E:\лаба 15\15 лаба кста\15 лаба кста\obj\Debug\_15_лаба_кста.Properties.Resources.resources
+E:\лаба 15\15 лаба кста\15 лаба кста\obj\Debug\15 лаба кста.csproj.GenerateResource.cache
+E:\лаба 15\15 лаба кста\15 лаба кста\obj\Debug\15 лаба кста.csproj.CoreCompileInputs.cache
+E:\лаба 15\15 лаба кста\15 лаба кста\obj\Debug\15 лаба кста.exe
+E:\лаба 15\15 лаба кста\15 лаба кста\obj\Debug\15 лаба кста.pdb

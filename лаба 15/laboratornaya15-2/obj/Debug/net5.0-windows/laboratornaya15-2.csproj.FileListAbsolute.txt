@@ -1,0 +1,36 @@
+D:\21П Лунин Лобанов\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.exe
+D:\21П Лунин Лобанов\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.deps.json
+D:\21П Лунин Лобанов\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.runtimeconfig.json
+D:\21П Лунин Лобанов\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.runtimeconfig.dev.json
+D:\21П Лунин Лобанов\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.dll
+D:\21П Лунин Лобанов\laboratornaya15-2\bin\Debug\net5.0-windows\ref\laboratornaya15-2.dll
+D:\21П Лунин Лобанов\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.pdb
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.csproj.AssemblyReference.cache
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15_2.Form1.resources
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.csproj.GenerateResource.cache
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.AssemblyInfoInputs.cache
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.AssemblyInfo.cs
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.csproj.CoreCompileInputs.cache
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.dll
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\ref\laboratornaya15-2.dll
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.pdb
+D:\21П Лунин Лобанов\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.genruntimeconfig.cache
+E:\лаба 15\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.exe
+E:\лаба 15\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.deps.json
+E:\лаба 15\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.runtimeconfig.json
+E:\лаба 15\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.runtimeconfig.dev.json
+E:\лаба 15\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.dll
+E:\лаба 15\laboratornaya15-2\bin\Debug\net5.0-windows\ref\laboratornaya15-2.dll
+E:\лаба 15\laboratornaya15-2\bin\Debug\net5.0-windows\laboratornaya15-2.pdb
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.csproj.AssemblyReference.cache
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15_2.Form1.resources
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.csproj.GenerateResource.cache
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.AssemblyInfoInputs.cache
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.AssemblyInfo.cs
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.csproj.CoreCompileInputs.cache
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.dll
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\ref\laboratornaya15-2.dll
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.pdb
+E:\лаба 15\laboratornaya15-2\obj\Debug\net5.0-windows\laboratornaya15-2.genruntimeconfig.cache

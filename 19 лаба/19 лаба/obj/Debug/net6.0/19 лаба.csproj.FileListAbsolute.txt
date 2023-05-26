@@ -1,0 +1,15 @@
+D:\лабы все\19 лаба\19 лаба\bin\Debug\net6.0\19 лаба.exe
+D:\лабы все\19 лаба\19 лаба\bin\Debug\net6.0\19 лаба.deps.json
+D:\лабы все\19 лаба\19 лаба\bin\Debug\net6.0\19 лаба.runtimeconfig.json
+D:\лабы все\19 лаба\19 лаба\bin\Debug\net6.0\19 лаба.dll
+D:\лабы все\19 лаба\19 лаба\bin\Debug\net6.0\19 лаба.pdb
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.csproj.AssemblyReference.cache
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.AssemblyInfoInputs.cache
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.AssemblyInfo.cs
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.csproj.CoreCompileInputs.cache
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.dll
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\refint\19 лаба.dll
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.pdb
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\19 лаба.genruntimeconfig.cache
+D:\лабы все\19 лаба\19 лаба\obj\Debug\net6.0\ref\19 лаба.dll

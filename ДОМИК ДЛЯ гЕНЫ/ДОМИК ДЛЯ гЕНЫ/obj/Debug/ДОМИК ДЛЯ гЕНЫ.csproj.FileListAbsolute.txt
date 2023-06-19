@@ -1,0 +1,10 @@
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\bin\Debug\ДОМИК ДЛЯ гЕНЫ.exe.config
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\bin\Debug\ДОМИК ДЛЯ гЕНЫ.exe
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\bin\Debug\ДОМИК ДЛЯ гЕНЫ.pdb
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\obj\Debug\ДОМИК ДЛЯ гЕНЫ.csproj.AssemblyReference.cache
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\obj\Debug\ДОМИК_ДЛЯ_гЕНЫ.Form1.resources
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\obj\Debug\ДОМИК_ДЛЯ_гЕНЫ.Properties.Resources.resources
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\obj\Debug\ДОМИК ДЛЯ гЕНЫ.csproj.GenerateResource.cache
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\obj\Debug\ДОМИК ДЛЯ гЕНЫ.csproj.CoreCompileInputs.cache
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\obj\Debug\ДОМИК ДЛЯ гЕНЫ.exe
+F:\ДОМИК ДЛЯ гЕНЫ\ДОМИК ДЛЯ гЕНЫ\obj\Debug\ДОМИК ДЛЯ гЕНЫ.pdb

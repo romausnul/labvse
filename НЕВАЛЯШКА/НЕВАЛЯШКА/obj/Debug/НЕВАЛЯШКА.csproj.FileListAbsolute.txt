@@ -1,0 +1,6 @@
+F:\НЕВАЛЯШКА\НЕВАЛЯШКА\obj\Debug\НЕВАЛЯШКА.csproj.AssemblyReference.cache
+F:\НЕВАЛЯШКА\НЕВАЛЯШКА\obj\Debug\Nevalyashka.resources
+F:\НЕВАЛЯШКА\НЕВАЛЯШКА\obj\Debug\НЕВАЛЯШКА.Properties.Resources.resources
+F:\НЕВАЛЯШКА\НЕВАЛЯШКА\obj\Debug\НЕВАЛЯШКА.csproj.GenerateResource.cache
+F:\НЕВАЛЯШКА\НЕВАЛЯШКА\obj\Debug\НЕВАЛЯШКА.csproj.CoreCompileInputs.cache
+F:\НЕВАЛЯШКА\НЕВАЛЯШКА\obj\Debug\BallDrawing.resources

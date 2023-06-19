@@ -1,0 +1,10 @@
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\obj\Debug\ГРУГИ_ДЛЯ_ГЕНЫ.Properties.Resources.resources
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\obj\Debug\ГРУГИ ДЛЯ ГЕНЫ.csproj.GenerateResource.cache
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\obj\Debug\ГРУГИ ДЛЯ ГЕНЫ.csproj.CoreCompileInputs.cache
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\bin\Debug\ГРУГИ ДЛЯ ГЕНЫ.exe.config
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\bin\Debug\ГРУГИ ДЛЯ ГЕНЫ.exe
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\bin\Debug\ГРУГИ ДЛЯ ГЕНЫ.pdb
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\obj\Debug\ГРУГИ ДЛЯ ГЕНЫ.exe
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\obj\Debug\ГРУГИ ДЛЯ ГЕНЫ.pdb
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\obj\Debug\ГРУГИ ДЛЯ ГЕНЫ.csproj.AssemblyReference.cache
+F:\ГРУГИ ДЛЯ ГЕНЫ\ГРУГИ ДЛЯ ГЕНЫ\obj\Debug\WindowsFormsApp1.Form1.resources

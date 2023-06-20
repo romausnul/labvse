@@ -1,0 +1,9 @@
+E:\Лабы\16\16\bin\Debug\16.exe
+E:\Лабы\16\16\bin\Debug\16.pdb
+E:\Лабы\16\16\obj\Debug\16.csproj.AssemblyReference.cache
+E:\Лабы\16\16\obj\Debug\_16.Form1.resources
+E:\Лабы\16\16\obj\Debug\_16.Properties.Resources.resources
+E:\Лабы\16\16\obj\Debug\16.csproj.GenerateResource.cache
+E:\Лабы\16\16\obj\Debug\16.csproj.CoreCompileInputs.cache
+E:\Лабы\16\16\obj\Debug\16.exe
+E:\Лабы\16\16\obj\Debug\16.pdb

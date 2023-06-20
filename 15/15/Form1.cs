@@ -76,6 +76,38 @@ namespace _15
 
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int columns = 5;
+            int rows = 5;
+            int[,] a = new int[columns, rows];
+
+            dataGridView3.ColumnCount = columns;
+            dataGridView3.RowCount = rows;
+
+            Random random = new Random();
+            for (int i = 0; i < columns; i++)
+            {
+                for(int j = 0; j <= rows; j++)
+                {
+                    a[i,j] = random.Next(2,5);
+                    dataGridView3.Rows[j].Cells[i].Value = a[i, j];
+                    if (a[i, j] == 2) a[i, j] = 3;
+                    dataGridView4.Rows[j].Cells[i].Value = a[i, j];
+                }
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int[,] num1 = new int[6, 6] { { 1, 1, 1, 1, 1, 0 }, { 2, 0, 1, 1, 0, 4 }, { 2, 2, 0, 0, 4, 4 }, { 2, 2, 0, 0, 4, 4 }, { 2, 0, 3, 3, 0, 4 }, { 0, 3, 3, 3, 3, 0 } };
+            dataGridView5.RowCount = 6;
+            dataGridView5.ColumnCount = 6;
+            for (int i = 0; i < 6; i++)
+                for (int j = 0; j < 6; j++)
+                    dataGridView5.Rows[i].Cells[j].Value = Convert.ToString(num1[i, j]);
+        }
+
         private void button5_Click(object sender, EventArgs e)
         {
             int[,] num1 = new int[6, 6] { { 0, 1, 1, 1, 1, 1 }, { 2, 0, 1, 1, 1, 1 }, { 2, 2, 0, 1, 1, 1 }, { 2, 2, 2, 0, 1, 1 }, { 2, 2, 2, 2, 0, 1 }, { 2, 2, 2, 2, 2, 0 } };
@@ -84,16 +116,6 @@ namespace _15
             for (int i = 0; i < 6; i++)
                 for (int j = 0; j < 6; j++)
                     dataGridView6.Rows[i].Cells[j].Value = Convert.ToString(num1[i, j]);
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox2_Enter(object sender, EventArgs e)
-        {
-
         }
     }
 }

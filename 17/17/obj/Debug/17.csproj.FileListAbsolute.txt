@@ -1,0 +1,9 @@
+E:\Лабы\17\17\bin\Debug\17.exe
+E:\Лабы\17\17\bin\Debug\17.pdb
+E:\Лабы\17\17\obj\Debug\17.csproj.AssemblyReference.cache
+E:\Лабы\17\17\obj\Debug\_17.Form1.resources
+E:\Лабы\17\17\obj\Debug\_17.Properties.Resources.resources
+E:\Лабы\17\17\obj\Debug\17.csproj.GenerateResource.cache
+E:\Лабы\17\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+E:\Лабы\17\17\obj\Debug\17.exe
+E:\Лабы\17\17\obj\Debug\17.pdb

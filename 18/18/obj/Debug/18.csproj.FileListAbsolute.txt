@@ -1,0 +1,9 @@
+F:\флешка\Лабы\18\18\bin\Debug\18.exe
+F:\флешка\Лабы\18\18\bin\Debug\18.pdb
+F:\флешка\Лабы\18\18\obj\Debug\18.csproj.AssemblyReference.cache
+F:\флешка\Лабы\18\18\obj\Debug\_18.Form1.resources
+F:\флешка\Лабы\18\18\obj\Debug\_18.Properties.Resources.resources
+F:\флешка\Лабы\18\18\obj\Debug\18.csproj.GenerateResource.cache
+F:\флешка\Лабы\18\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+F:\флешка\Лабы\18\18\obj\Debug\18.exe
+F:\флешка\Лабы\18\18\obj\Debug\18.pdb

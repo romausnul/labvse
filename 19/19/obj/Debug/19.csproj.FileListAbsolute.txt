@@ -1,0 +1,11 @@
+F:\флешка\Лабы\19\19\bin\Debug\19.exe.config
+F:\флешка\Лабы\19\19\bin\Debug\19.exe
+F:\флешка\Лабы\19\19\bin\Debug\19.pdb
+F:\флешка\Лабы\19\19\obj\Debug\19.csproj.AssemblyReference.cache
+F:\флешка\Лабы\19\19\obj\Debug\19.csproj.SuggestedBindingRedirects.cache
+F:\флешка\Лабы\19\19\obj\Debug\_19.Properties.Resources.resources
+F:\флешка\Лабы\19\19\obj\Debug\19.csproj.GenerateResource.cache
+F:\флешка\Лабы\19\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+F:\флешка\Лабы\19\19\obj\Debug\19.exe
+F:\флешка\Лабы\19\19\obj\Debug\19.pdb
+F:\флешка\Лабы\19\19\obj\Debug\_19.Form1.resources

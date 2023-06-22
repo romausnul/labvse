@@ -1,0 +1,22 @@
+F:\флешка\Лабы\28 2\28 2\bin\Debug\28 2.exe.config
+F:\флешка\Лабы\28 2\28 2\bin\Debug\28 2.exe
+F:\флешка\Лабы\28 2\28 2\bin\Debug\28 2.pdb
+F:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.AssemblyReference.cache
+F:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.SuggestedBindingRedirects.cache
+F:\флешка\Лабы\28 2\28 2\obj\Debug\_28_2.Form1.resources
+F:\флешка\Лабы\28 2\28 2\obj\Debug\_28_2.Properties.Resources.resources
+F:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.GenerateResource.cache
+F:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.CoreCompileInputs.cache
+F:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.exe
+F:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.pdb
+E:\флешка\Лабы\28 2\28 2\bin\Debug\28 2.exe.config
+E:\флешка\Лабы\28 2\28 2\bin\Debug\28 2.exe
+E:\флешка\Лабы\28 2\28 2\bin\Debug\28 2.pdb
+E:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.AssemblyReference.cache
+E:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.SuggestedBindingRedirects.cache
+E:\флешка\Лабы\28 2\28 2\obj\Debug\_28_2.Form1.resources
+E:\флешка\Лабы\28 2\28 2\obj\Debug\_28_2.Properties.Resources.resources
+E:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.GenerateResource.cache
+E:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.csproj.CoreCompileInputs.cache
+E:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.exe
+E:\флешка\Лабы\28 2\28 2\obj\Debug\28 2.pdb

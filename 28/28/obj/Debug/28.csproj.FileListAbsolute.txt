@@ -9,3 +9,14 @@ E:\флешка\Лабы\28\28\obj\Debug\28.csproj.GenerateResource.cache
 E:\флешка\Лабы\28\28\obj\Debug\28.csproj.CoreCompileInputs.cache
 E:\флешка\Лабы\28\28\obj\Debug\28.exe
 E:\флешка\Лабы\28\28\obj\Debug\28.pdb
+F:\флешка\Лабы\28\28\bin\Debug\28.exe.config
+F:\флешка\Лабы\28\28\bin\Debug\28.exe
+F:\флешка\Лабы\28\28\bin\Debug\28.pdb
+F:\флешка\Лабы\28\28\obj\Debug\28.csproj.AssemblyReference.cache
+F:\флешка\Лабы\28\28\obj\Debug\28.csproj.SuggestedBindingRedirects.cache
+F:\флешка\Лабы\28\28\obj\Debug\_28.Form1.resources
+F:\флешка\Лабы\28\28\obj\Debug\_28.Properties.Resources.resources
+F:\флешка\Лабы\28\28\obj\Debug\28.csproj.GenerateResource.cache
+F:\флешка\Лабы\28\28\obj\Debug\28.csproj.CoreCompileInputs.cache
+F:\флешка\Лабы\28\28\obj\Debug\28.exe
+F:\флешка\Лабы\28\28\obj\Debug\28.pdb
